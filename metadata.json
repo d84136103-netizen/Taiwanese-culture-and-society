@@ -1,0 +1,6 @@
+{
+  "name": "臺灣印象製作所：遊戲優化與重製版 | Framing Taiwan Enhanced",
+  "description": "《臺灣印象製作所 | Framing Taiwan》遊戲深度優化建議分析報告與可遊玩升級版原型，包含鏡頭HUD、即時剪輯時間軸、夜市氛圍音效與文化敘事體驗。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
